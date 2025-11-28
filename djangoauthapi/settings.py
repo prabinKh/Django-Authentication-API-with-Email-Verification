@@ -143,9 +143,9 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
-EMAIL_HOST_USER = os.getenv('EMAIL_USER', 'djagnoforgithub123@gmail.com')
-EMAIL_HOST_PASSWORD = os.getenv('EMAIL_PASSWORD', 'qjpt wtip cpyn jwaq')  # Your App Password
-DEFAULT_FROM_EMAIL = os.getenv('EMAIL_FROM', 'djangoforgithub@gmail.com')
+EMAIL_HOST_USER = os.getenv('EMAIL_USER', 'example@gmail.com')
+EMAIL_HOST_PASSWORD = os.getenv('EMAIL_PASSWORD', 'aaaa aaaa aaaa aaaa')  # Your App Password
+DEFAULT_FROM_EMAIL = os.getenv('EMAIL_FROM', 'example@gmail.com')
 EMAIL_TIMEOUT = 30
 
 # Optional: Fallback to console during development if needed
