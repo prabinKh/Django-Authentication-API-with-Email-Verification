@@ -16,7 +16,7 @@ A robust Django REST API with JWT authentication, email verification for new use
 
 - **Backend**: Django 5.2.8 + Django REST Framework
 - **Authentication**: JWT (Simple JWT)
-- **Database**: SQLite (default, can be changed)
+- **Database**: SQLite (default, can be changed)\
 - **Email**: Gmail SMTP (configurable)
 
 ## Project Structure
