@@ -7,6 +7,7 @@ A robust Django REST API with JWT authentication, email verification for new use
 - User Registration with Email Verification
 - JWT Token-based Authentication
 - Login/Logout Functionality
+- 
 - Password Change
 - Password Reset via Email
 - Protected User Profile Endpoints
